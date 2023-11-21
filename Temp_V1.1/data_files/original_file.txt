@@ -1,0 +1,16 @@
+temperature 1 = 2659, normal_color=10, warning_color=20, danger_color=30, label=EB I/C VCB
+temperature 2 = 233, normal_color=10, warning_color=20, danger_color=30, label=SB-9
+temperature 3 = 174, normal_color=10, warning_color=20, danger_color=30, label=SB-3
+temperature 4 = 74, normal_color=10, warning_color=20, danger_color=30, label=SB-10
+temperature 5 = 176, normal_color=10, warning_color=20, danger_color=30, label=SB-12
+temperature 6 = 25, normal_color=10, warning_color=20, danger_color=30, label=SB-1
+temperature 7 = 252, normal_color=10, warning_color=20, danger_color=30, label=SB-2
+temperature 8 = 120, normal_color=10, warning_color=20, danger_color=30, label=SB-6
+temperature 9 = 63, normal_color=10, warning_color=20, danger_color=30, label=SB-5
+temperature 10 = 245, normal_color=10, warning_color=20, danger_color=30, label=SB-11
+temperature 11 = 98, normal_color=10, warning_color=20, danger_color=30, label=SB-8
+temperature 12 = 661656, normal_color=10, warning_color=20, danger_color=30, label=TR1-LT
+temperature 13 = 719688, normal_color=10, warning_color=20, danger_color=30, label=TR2-LT
+temperature 14 = 1279128, normal_color=10, warning_color=20, danger_color=30, label=FURNACE MAIN VCB
+temperature 15 = 637853, normal_color=10, warning_color=20, danger_color=30, label=TR1-HT
+temperature 16 = 770393, normal_color=10, warning_color=20, danger_color=30, label=TR2-HT
